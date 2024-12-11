@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Kush Bhakkad  
+# 👋 Hi, I’m Kush Sanjay Bhakkad  
 
 🔹 **Full-Stack Developer** | **AI Enthusiast** | **Web Scraping Expert**  
 🔹 Passionate about solving complex problems with scalable solutions and cutting-edge technologies.  
@@ -24,6 +24,3 @@
 ## 📫 How to reach me:  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kushbhakkad)  
 - 📧 Email: [kushbhakkad@gmail.com](mailto:your-kushbhakkad@gmail.com)
-
-## ⚡ Fun fact:  
-I thrive at the intersection of **creativity and technology**, merging artistic expression with innovative development to craft impactful solutions!
