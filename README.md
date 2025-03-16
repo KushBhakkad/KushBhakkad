@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kush Sanjay Bhakkad  
 
-- **Full-Stack Developer** | **AI Enthusiast** | **Web Scraping Expert** | **Problem Solver(DSA)**
+- **Full-Stack Developer** | **AI Enthusiast** | **Web Scraping Expert** | **Problem Solver(DSA)** | **Open Source Contributor**
 - Passionate about solving complex problems with scalable solutions and cutting-edge technologies.  
 
 ## 👀 I’m interested in:  
